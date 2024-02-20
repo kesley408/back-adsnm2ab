@@ -10,4 +10,4 @@ O repositório está dividido em duas principais seções:
 Nesta pasta, você encontrará os códigos referentes às aulas expositivas. São exemplos práticos, demonstrações e implementações discutidas durante as sessões teóricas.
 
 ### 2. Práticas
-Aqui estão armazenados os códigos correspodentes às aividades práticas. Essas 
+Aqui estão armazenados os códigos correspodentes às aividades práticas. Essas práticas visam fortalecer os conceitos aprendidos em sala, proporcionando oportunidades para aplicação e exercício das habilidades adquiridas.
